@@ -1,8 +1,4 @@
 # couscous-PDF-to-text
-App that utilizes AI for converting PDF to text file. 
+App that utilizes AI to convert picture taken from phone to a string of text. AI trained using the IAM Online Handwriting Database. Implemented using Pytorch.
 
-Purpose: scans handwritten text from PDF and converts it to typed
-
-Constraints: lined paper only, regular English writing only (no cursive)
-
-Possible add-ons: enabling text to voice after done scanning, possibly scanning cursive
+Constraints: lined paper only, regular English writing only (no cursive). 
